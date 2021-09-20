@@ -7,7 +7,7 @@ function toggleColor() {
   if (isDark) {
     body.style.color = "black";
   } else {
-    body.style.color = "white";
+    body.style.color = "yellow";
   }
 }
 
